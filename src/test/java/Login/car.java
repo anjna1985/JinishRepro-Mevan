@@ -23,6 +23,7 @@ public class car {
 	driver=new ChromeDriver();
 	driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	driver.manage().window().maximize();
+	System.out.println("Navigating to new page");
 
 	}
 
