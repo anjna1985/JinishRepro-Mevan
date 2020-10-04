@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21098" started-at="2020-10-04T12:25:07 EDT" finished-at="2020-10-04T12:25:28 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21098" started-at="2020-10-04T12:25:07 EDT" finished-at="2020-10-04T12:25:28 EDT">
+      <class name="Login.car">
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:Login.car@482f8f11]" name="testSetup" is-config="true" duration-ms="6705" started-at="2020-10-04T12:25:07 EDT" finished-at="2020-10-04T12:25:14 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Login.car@482f8f11]" name="openBrowser" duration-ms="6372" started-at="2020-10-04T12:25:14 EDT" finished-at="2020-10-04T12:25:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="postSignUp()[pri:0, instance:Login.car@482f8f11]" name="postSignUp" duration-ms="6" started-at="2020-10-04T12:25:20 EDT" finished-at="2020-10-04T12:25:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSignUp -->
+        <test-method status="PASS" signature="signUp()[pri:0, instance:Login.car@482f8f11]" name="signUp" duration-ms="1071" started-at="2020-10-04T12:25:20 EDT" description="This method validates the sign up functionality" finished-at="2020-10-04T12:25:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:Login.car@482f8f11]" name="testSetup" duration-ms="5791" started-at="2020-10-04T12:25:21 EDT" finished-at="2020-10-04T12:25:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Login.car@482f8f11]" name="afterClass" is-config="true" duration-ms="1099" started-at="2020-10-04T12:25:27 EDT" finished-at="2020-10-04T12:25:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Login.car -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
